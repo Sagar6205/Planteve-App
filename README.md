@@ -1,6 +1,6 @@
 <h1 align="center" id="title">PLANTEVE</h1>
 
-<p align="center"><img src="https://imgtr.ee/images/2023/07/26/89228f60f176347ababae7a2b1d82ae2.jpeg" alt="project-image" width = "800"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Sagar6205/Sagar6205/asset/asset/Frame2%20Large.png" alt="project-image" width = "800"></p>
 <hr>
 
 <p id="description">Planteve is a frontend Flutter mobile application with three screens: Login Signup and Home. The app offers a visually engaging user interface for account login and registration.</p>
@@ -9,7 +9,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://imgtr.ee/images/2023/07/26/0c7a68a2005955e206bff7d21b8954bb.png" alt="project-screenshot" width="547" height="357/">
+<img src="https://raw.githubusercontent.com/Sagar6205/Sagar6205/asset/asset/IDE%20Large.png" alt="project-screenshot" width="547" height="357/">
 
   
   
